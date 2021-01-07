@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/home/moacyr/Documents/Repositories/FIA/gabarito_exercicios_aulas/Regressao_Logistica/md'
+let g:netrw_dirhist_2='/home/moacyr/.config/nvim/general'
+let g:netrw_dirhist_1='/home/moacyr/Documents/Pos-FIA/BigData/20201201 - Regressão Logiśtica - Prof. Ângelo Chiode/EstudoDeCasos/AumentoTimeVendas/src'
